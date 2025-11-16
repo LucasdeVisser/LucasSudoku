@@ -1,0 +1,22 @@
+body {
+  background-color: DarkGray;
+  background-image: linear-gradient(to bottom, Gainsboro, Ivory);
+}
+
+h1 {
+  font-family: Tahoma, sans-serif;
+  color: Black;
+  text-shadow: 2px 2px grey;
+}
+
+p {
+  color: Black;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ul li {
+  margin: 5px;
+}

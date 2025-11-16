@@ -1,0 +1,23 @@
+<li><b>Standaard sudoku:</b> Plaats de cijfers van 1 t/m 9 eenmaal in elke rij, kolom, en 3x3 blok.</li>
+
+<li><b>Thermometer:</b> Cijfers op een thermometer groeien in waarde vanaf de bol naar de top.</li>
+
+<li><b>Killer cage:</b> Cijfers in een kooi herhalen zich niet, en sommen tot het getal dat linksboven in de kooi staat (als dat gegeven is).</li>
+
+<li><b>Arrow:</b> De som van de cijfers op een pijl is gelijk aan het cijfer in de bol.</li>
+
+<li><b>Renban line:</b> De cijfers op een paarse lijn vormen een set van unieke opeenvolgende getallen in willekeurige volgorde.</li>
+
+<li><b>German whisper line:</b> Cijfers die naast elkaar op een groene lijn liggen hebben een verschil van minimaal 5.</li>
+
+<li><b>Region sum line:</b> De grenzen van de 3x3 blokken splitsen blauwe lijnen in segmenten. De som van de cijfers van elk segment op een blauwe lijn is gelijk.</li>
+
+<li><b>White Kropki:</b> Vakjes die gescheiden zijn door een witte stip bevatten opeenvolgende cijfers.</li>
+
+<li><b>Black Kropki:</b> Vakjes die gescheiden zijn door een zwarte stip bevatten cijfers met een 1:2 ratio.</li>
+
+<li><b>Anti-knight:</b> Vakjes die in één zet door een paard te overbruggen zijn bevatten verschillende cijfers.</li>
+
+<li><b>Anti-king:</b> Vakjes die in één zet door een koning te overbruggen zijn bevatten verschillende cijfers.</li>
+
+<li><b>Non-consecutive:</b> Naast elkaar gelegen vakjes bevatten geen opeenvolgende cijfers.</li>
