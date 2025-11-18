@@ -1,6 +1,15 @@
 body {
   background-color: DarkGray;
   background-image: linear-gradient(to bottom, Gainsboro, Ivory);
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.header {
+  text-align: center;
+  background: #DBF4AD;
+  border: 1px solid black;
 }
 
 h1 {
@@ -23,8 +32,8 @@ ul li {
 
 table {
   font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
   width: 100%;
+  border: 1px solid black;
 }
 
 td, th {
