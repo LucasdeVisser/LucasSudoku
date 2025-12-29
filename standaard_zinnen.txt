@@ -21,3 +21,9 @@
 <li><b>Anti-king:</b> Vakjes die in één zet door een koning te overbruggen zijn bevatten verschillende cijfers.</li>
 
 <li><b>Non-consecutive:</b> Naast elkaar gelegen vakjes bevatten geen opeenvolgende cijfers.</li>
+
+<li><b>Quadruples:</b> Cijfers in een witte cirkel staan minimaal één keer in de vier omringende vakjes.</li>
+
+<li><b>Even:</b> Grijze vierkanten bevatten even getallen.</li>
+
+<li><b>Oneven:</b> Grijze cirkels bevatten oneven getallen.</li>
