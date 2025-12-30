@@ -24,6 +24,8 @@
 
 <li><b>Quadruples:</b> Cijfers in een witte cirkel staan minimaal één keer in de vier omringende vakjes.</li>
 
-<li><b>Even:</b> Grijze vierkanten bevatten even getallen.</li>
+<li><b>Even:</b> Grijze vierkanten bevatten even cijfers.</li>
 
-<li><b>Oneven:</b> Grijze cirkels bevatten oneven getallen.</li>
+<li><b>Oneven:</b> Grijze cirkels bevatten oneven cijfers.</li>
+
+<li><b>Positive diagonal:</b> De blauwe diagonaal van zuidwest naar noordoost bevat unieke cijfers.</li>
